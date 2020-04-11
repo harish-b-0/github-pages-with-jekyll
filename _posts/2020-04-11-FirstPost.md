@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2020-04-11
+---
+
 1. On the "Code" tab, select your harish-b-0-patch-1 branch.
 
 2. Click Create new file.
